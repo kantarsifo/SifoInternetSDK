@@ -10,6 +10,6 @@ It is currently limited to Swedish customers only.
 
 Implementation details are included in the Documentation folder within the zip file.
 
-**Quick setup instructions are available at:**
+**This framework is also availble as a CocoaPod. Read more at:**
 
 https://github.com/kantarsifo/kantar-sifo-mobile-analytics-pod
